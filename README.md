@@ -1,0 +1,2 @@
+# Android-music-player
+This project is made by using android studio and xml for gui part and java as programming language. This project is working like music player. Its has basic functionality like play ,pause and stop. by clicking play we can play the music , by clicking pause we can pause and by clicking stop , we can stop it and its again start playing form start.for implementing this we have used medaiplayer class .
